@@ -6,14 +6,13 @@ Proyecto frontend desarrollado en **Vue 3** + **Vite** para la gestión de playl
 
 - [Vue 3](https://vuejs.org/)
 - [Vite](https://vitejs.dev/)
-- [ESLint](https://eslint.org/) – Linter para mantener código limpio y consistente
 
 ## 📦 Requisitos previos
 
 - [Node.js](https://nodejs.org/) >= 16.x
 - npm >= 7.x
 
-> ⚙️ Recomendado: usar [VSCode](https://code.visualstudio.com/) con la extensión [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) habilitada y desactivar Vetur para una mejor experiencia.
+> ⚙️ Recomendado: usar [VSCode](https://code.visualstudio.com/) para una mejor experiencia.
 
 ---
 
@@ -23,3 +22,8 @@ Instala las dependencias:
 
 ```bash
 npm install
+
+## Ejecutar el proyecto
+
+```bash
+npm run dev
